@@ -52,7 +52,6 @@
 <!-- Glowing Footer -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&``=FFFFFF&backgroundz``=000000&center=true&vCenter=true&width=600&lines=💎+Much+Appreciation,,dition+by+Max;⚡+The+Future+of+your+Coding+is+Here" alt="Footer Animation">
