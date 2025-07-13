@@ -43,18 +43,18 @@
 <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.gideonngeno978@gmail.com>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://wa.me/254738734134" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
+</a>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/maxblip" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://discordapp.com/users/yourDiscordID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+  
+  
 </p>
 
 <!-- Glowing Footer -->
