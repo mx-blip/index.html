@@ -1,9 +1,3 @@
-# index.html
-
-
-
-
-<!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
@@ -23,7 +17,6 @@
   </a>
 </p>
 
-
 </head>
 <body>
   <div class="container">
@@ -42,19 +35,35 @@
     </p>
     <p>
       Join us on a journey where learning meets creation. <span class="highlight">Start small, dream big, and build your future one line of code at a time.</span>
-
-    
+    </p>
   </div>
 </body>
 
+<!-- Contact Me Section -->
+<h2 align="center">📬 Contact Me</h2>
 
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://discordapp.com/users/yourDiscordID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
 <!-- Glowing Footer -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&``=FFFFFF&backgroundz``=000000&center=true&vCenter=true&width=600&lines=💎+Much+Appreciation,,dition+by+Max;⚡+The+Future+of+your+Coding+is+Here" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+Much+Appreciation,,Edition+by+Max;⚡+The+Future+of+your+Coding+is+Here" alt="Footer Animation">
 </h3>
 
 <p align="center">
