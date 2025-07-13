@@ -43,7 +43,7 @@
     <p>
       Join us on a journey where learning meets creation. <span class="highlight">Start small, dream big, and build your future one line of code at a time.</span>
 
-    </p>
+    
   </div>
 </body>
 
