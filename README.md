@@ -23,37 +23,7 @@
   </a>
 </p>
 
-<style>
-    body {
-      margin: 0;
-      padding: 2rem;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #0f172a;
-      color: #f1f5f9;
-      line-height: 1.6;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      background: #1e293b;
-      padding: 2rem;
-      border-radius: 1rem;
-      box-shadow: 0 0 30px rgba(0, 255, 100, 0.2);
-    }
-    h1 {
-      text-align: center;
-      color: #22c55e;
-      margin-bottom: 1rem;
-    }
-    p {
-      margin-bottom: 1.5rem;
-      font-size: 1.1rem;
-    }
-    .highlight {
-      color: #38bdf8;
-      font-weight: bold;
-    }
-  </style>
+
 </head>
 <body>
   <div class="container">
