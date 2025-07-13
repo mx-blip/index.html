@@ -56,6 +56,7 @@
   
   
 </p>
+[![Fork on GitHub](https://img.shields.io/badge/Fork--this--repo-blue?style=for-the-badge&logo=github)](https://github.com/mx-blip/my-awesome-project/fork)
 
 <!-- Glowing Footer -->
 <p align="center">
